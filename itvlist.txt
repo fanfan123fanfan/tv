@@ -1,4 +1,4 @@
-2024-09-01更新,#genre#
+2024-09-02更新,#genre#
 QQ群258295433,http://bizcommon.alicdn.com/l2nDqpMmn6DGHnWzZQA/Cg9qI5imMInpPvK5Mnm%40%40hd.m3u8
 
 关注微信公众号,#genre#
@@ -33,8 +33,13 @@ QQ群258295433,http://bizcommon.alicdn.com/l2nDqpMmn6DGHnWzZQA/Cg9qI5imMInpPvK5M
 民视HD,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8504/.m3u8
 民视第一台HD,http://37.27.111.214:8080/live/4/hls.m3u8
 
-麒麟频道0823_26850,#genre#
-12,https://mmysm3.mmcnames.com/20240801/zw_t242x7uq/zw_t242x7uq.m3u8?sign=1724406504-4CEiX5JpQDdf-4082-ae040b09ad055f4a82f96addc9c3c7f2
+
+麒麟频道0831_26850,#genre#
+13,https://mmysm3.mmcnames.com/20240801/zw_sf8kq7cc/zw_sf8kq7cc.m3u8?sign=1725091919-4Rm7PZJlFN3i5-7369-5d360a131e3a4aa688aebf76d4a6432c
+14,https://hlsapp.dlzpyf.cn/videos4/adb92490a5d8a61f32221975ac0a74af/adb92490a5d8a61f32221975ac0a74af.m3u8?auth_key=1725092764-66d2d39c8c739-0-f8683af8053ff9bca3c21c4db51b46de&v=2
+
+
+
 
 
 
