@@ -1,4 +1,4 @@
-2024-09-14更新,#genre#
+2024-09-15更新,#genre#
 QQ1群258295433,https://sp.4n2.cn/?api=xjj
 QQ2群138645448,https://sp.4n2.cn/?api=tm
 
@@ -29,8 +29,8 @@ QQ2群138645448,https://sp.4n2.cn/?api=tm
 民视HD,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8504/.m3u8
 民视第一台HD,http://37.27.111.214:8080/live/4/hls.m3u8
 
-麒麟频道0907_26850,#genre#
-15,https://mmysm3.mmcnames.com/20240901/zw_qbrt6gqh/zw_qbrt6gqh.m3u8?sign=1725699764-koDijnfgZX5aJBKQSrT6-3033-2f2948894ba16bf7c82556835da9c655
+麒麟频道0915_26850,#genre#
+16,https://mmysm3.mmcnames.com/20240901/zw_3mwfmmm7/zw_3mwfmmm7.m3u8?sign=1726307734-lyYGF5b3DZPnrK9SU2-16336-3f9afd1737cfb0900510ac4a3dee5736
 
 
 
